@@ -11,18 +11,7 @@
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
-    <object>
-    <name>license-plate</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-        <xmin>346.18517095658854</xmin>
-        <ymin>354.14753648101265</ymin>
-        <xmax>395.8509412216673</xmax>
-        <ymax>367.86885245901635</ymax>
-    </bndbox>
-</object><object>
+<object>
     <name>license-plate</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>

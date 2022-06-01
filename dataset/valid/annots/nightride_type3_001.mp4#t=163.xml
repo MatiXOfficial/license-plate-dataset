@@ -1,26 +1,39 @@
-<annotation verified="yes">
-    <folder>Annotation</folder>
-    <filename>nightride_type3_001.mp4#t=163.jpg</filename>
-    <path>license-plate-detector-PascalVOC-export/Annotations/nightride_type3_001.mp4#t=163.jpg</path>
-    <source>
-        <database>Unknown</database>
-    </source>
-    <size>
-        <width>1280</width>
-        <height>720</height>
-        <depth>3</depth>
-    </size>
-    <segmented>0</segmented>
-    <object>
+<annotation>
+  <__verified>yes</__verified>
+  <filename>nightride_type3_001.mp4#t=163.jpg</filename>
+  <folder>Annotation</folder>
+  <object>
+    <bndbox>
+      <xmax>679.2900619477525</xmax>
+      <xmin>525.4736722051479</xmin>
+      <ymax>449.8524425068839</ymax>
+      <ymin>405.24590163934425</ymin>
+    </bndbox>
+    <difficult>0</difficult>
     <name>license-plate</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
-    <difficult>0</difficult>
+  </object>
+  <object>
     <bndbox>
-        <xmin>525.4736722051479</xmin>
-        <ymin>405.24590163934425</ymin>
-        <xmax>679.2900619477525</xmax>
-        <ymax>449.8524425068839</ymax>
+      <xmax>969</xmax>
+      <xmin>896</xmin>
+      <ymax>266</ymax>
+      <ymin>246</ymin>
     </bndbox>
-</object>
+    <difficult>0</difficult>
+    <name>license-plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>license-plate-detector-PascalVOC-export/Annotations/nightride_type3_001.mp4#t=163.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>720</height>
+    <width>1280</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
 </annotation>
